@@ -1,0 +1,9 @@
+The project is edited in a clone of Rocket Patrol for the CMPM 120 “Rocket Patrol Mods” assignment.
+
+The changes I made:
+    Redesign the game's artwork, UI, and sound to change its theme/aesthetic (to something other than sci-fi) (60)
+
+    Display the time remaining (in seconds) on the screen (10)
+
+    Implement an alternating two-player mode. In this mode, there is one rocket, and players take turns controlling this one rocket. (20)
+  
